@@ -10,8 +10,8 @@ nav:
       - Обработка данных: competencies/data.md
       - Работа со статьями при помощи Emacs: competencies/papers_workflow_emacs.md
       - Методы научной визуализации : competencies/viz.md
-      - Научные базы данных: share.md
-
+      - Научные базы данных: competencies/viz.md
+      - Научные базы данных: competencies/rp-photonics.md
     - IT-компетенции:
       - Программирование: competencies/it.md
       - Системы компьютерной верстки: competencies/LaTeX.md
